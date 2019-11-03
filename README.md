@@ -1,5 +1,5 @@
 # pykaprekan
-Python 3 implemantation for kaprekan routine serie generation.
+Python 3 implemantation for kaprekan routines.
 
 Sources:
 - https://en.wikipedia.org/wiki/Kaprekar%27s_routine
@@ -10,11 +10,10 @@ Inspiration:
 - https://www.youtube.com/watch?v=pDXek06Bde4
 
 # Todo
-*Legend: ☑ (Done) | □ (Will be done soon)* | ☒ (Won't be done for now)
 
-- ☑ D.R. Kaprekan routine function (subtract sorted digits).
-- □ Kaprekan routine to generator. Return cycle(s) or constants according number of digits.
-- □ Create friendly and usable python module.
-- □ Add other sequence functions such as Kaprekan's numbers,, Kaprekan's steps heatmap visualization, Karshad numbers, Autonúmeros (translate).
+- [x] D.R. Kaprekan routine function (subtract sorted digits).
+- [ ] Kaprekan routine to generator. Return cycle(s) or constants according number of digits.
+- [ ] Create friendly and usable python module.
+- [ ] Add other sequence functions such as Kaprekan's numbers, Kaprekan's steps heatmap visualization, Karshad numbers, Autonúmeros (translate).
 
-*Please post an issue or a pull request if seen no advance on this topic. Contributions will be recognized.
+Contributions are welcome! Please post an issue or a pull request. Contributions will be properly recognized.
