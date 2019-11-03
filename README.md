@@ -1,2 +1,2 @@
 # pykaprekan
-Python 3 implemantation for kaprekan routine generation
+Python 3 implemantation for kaprekan routine series generation.
