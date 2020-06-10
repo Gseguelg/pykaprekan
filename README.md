@@ -17,3 +17,5 @@ Inspiration:
 - [ ] Add other sequence functions such as Kaprekan's numbers, Kaprekan's steps heatmap visualization, Karshad numbers, Autonúmeros (translate).
 
 Contributions are welcome! Please post an issue or a pull request. Contributions will be properly recognized.
+
+
